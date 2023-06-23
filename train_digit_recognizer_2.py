@@ -39,3 +39,5 @@ network.save('mnist2.h5')
 print("Saving the model as mnist2.h5")
 
 
+
+
